@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Variables
-DOMAIN="webpartner.cloud"
-WEBROOT="/var/www/webpartner"
-DB_NAME="webpartner_db"
-DB_USER="webpartner_user"
-DB_PASS="Varsovie7!@Np"
+DOMAIN="mondomaine.com"
+WEBROOT="/var/www/nomdudossierwordpress"
+DB_NAME="nombase_db"
+DB_USER="nomuser_user"
+DB_PASS="motdepassefort"
 NGINX_CONF="/etc/nginx/sites-available/$DOMAIN"
 
 # Mise à jour du système
